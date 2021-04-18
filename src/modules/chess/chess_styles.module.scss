@@ -1,0 +1,26 @@
+.Chess {
+  &__center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__column {
+    width: auto;
+    @extend .Chess__center;
+  }
+
+  &__row {
+    width: 80px;
+    height: 80px;
+    @extend .Chess__center;
+  }
+
+  &__boxA {
+    background-color: red;
+  }
+
+  &__boxAvailable {
+    background-color: purple;
+  }
+}

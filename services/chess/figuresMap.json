@@ -1,0 +1,84 @@
+{
+  "c-1": {
+    "name": "pawn",
+    "player": "A"
+  },
+
+  "c-6": {
+    "name": "pawn",
+    "player": "B"
+  },
+
+  "0,3": {
+    "name": "queen",
+    "player": "A"
+  },
+
+  "0,4": {
+    "name": "king",
+    "player": "A"
+  },
+
+  "7,3": {
+    "name": "queen",
+    "player": "B"
+  },
+
+  "7,4": {
+    "name": "king",
+    "player": "B"
+  },
+
+  "0,0": {
+    "name": "rook",
+    "player": "A"
+  },
+
+  "0,7": {
+    "name": "rook",
+    "player": "A"
+  },
+  "7,0": {
+    "name": "rook",
+    "player": "B"
+  },
+  "7,7": {
+    "name": "rook",
+    "player": "B"
+  },
+  "7,6": {
+    "name": "knight",
+    "player": "B"
+  },
+  "0,1": {
+    "name": "knight",
+    "player": "A"
+  },
+  "0,6": {
+    "name": "knight",
+    "player": "A"
+  },
+  "7,1": {
+    "name": "knight",
+    "player": "B"
+  },
+
+  "0,2": {
+    "name": "bishop",
+    "player": "A"
+  },
+
+  "0,5": {
+    "name": "bishop",
+    "player": "A"
+  },
+
+  "7,2": {
+    "name": "bishop",
+    "player": "B"
+  },
+  "7,5": {
+    "name": "bishop",
+    "player": "B"
+  }
+}
